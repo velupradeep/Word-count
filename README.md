@@ -29,6 +29,9 @@ print("Number of words={}".format(num_words))
 ```
 
 ### OUTPUT:
+![python 5 1](https://github.com/velupradeep/Word-count/assets/150329341/f6033c66-4649-4153-a3e7-d2b1596cda07)
+![python 5](https://github.com/velupradeep/Word-count/assets/150329341/5ec1e7bc-22c6-40d7-8bac-035a8577600b)
+
 
 
 
